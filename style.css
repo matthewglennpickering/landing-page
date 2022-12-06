@@ -1,3 +1,14 @@
 .top-main {
   float:right;
 }
+
+.main-header {
+  font-size: 48px;
+  font-weight: extra-bold;
+
+}
+
+.awesome {
+  margin-left: 200px;
+  margin-top: 120px;
+}
